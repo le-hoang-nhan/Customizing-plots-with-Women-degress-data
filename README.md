@@ -1,5 +1,10 @@
 If you can not open .ipynb file due to a GitHub error, you can open the file by following this link 
 https://nbviewer.jupyter.org/github/le-hoang-nhan/Customizing-plots-with-Women-degress-data/blob/master/women%20degrees.ipynb
+
+See my presentation PowerPoint here: 
+Bachelor’s degrees among women
+https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EfcA_rY77TlHnlQLjuxxWFsB73NTf3DH93NMWJ321JIOZg?e=6it0d8
+
 # Customizing-plots-with-Women-degress-data
 Customizing plots using Matplotlib: overlaying plots, making subplots, controlling axes, adding legends and annotations, and using different plot styles.
 
