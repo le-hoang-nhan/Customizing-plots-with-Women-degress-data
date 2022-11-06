@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/Customizing-plots-with-Women-d
 
 See my presentation PowerPoint here: 
 Bachelor’s degrees among women
-https://drive.google.com/file/d/1a1s3qHN7r2RImpJnsWa6Jcu8X-v63_dS/view?usp=sharing
+https://docs.google.com/presentation/d/1e1XSw1F5lCFwcesHcThgBU_YrS7uEAtt/edit?usp=share_link&ouid=111920116703878991428&rtpof=true&sd=true
 
 # Customizing-plots-with-Women-degress-data
 Customizing plots using Matplotlib: overlaying plots, making subplots, controlling axes, adding legends and annotations, and using different plot styles.
